@@ -18,6 +18,8 @@ A Python desktop prototype that uses webcam-based hand tracking to move the curs
 
 ## Local Setup
 
+Use Python `3.11` for local testing.
+
 Create and activate a virtual environment:
 
 ```bash
